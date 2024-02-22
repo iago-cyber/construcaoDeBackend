@@ -28,16 +28,22 @@ git pull origin main
 
 ```shell
 git push origin main
-``` 
+```
 
-# comandos git:
+6. ver o status do ambiente
 
-clone
-commit
-add
-pull
-push
-status
-checkout
-merge
+```shell
+git status
+```
 
+7. muda de branch
+
+```shell
+git checkout branch
+```
+
+8. faz o merge
+
+```shell
+git merge
+```
