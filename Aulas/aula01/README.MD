@@ -42,8 +42,14 @@ git status
 git checkout branch
 ```
 
-8. faz o merge
+8. fazer uma branch
 
 ```shell
-git merge
+git branch nomeDaBranch
+```
+
+9. faz o merge
+
+```shell
+git merge nomeDabranch
 ```
