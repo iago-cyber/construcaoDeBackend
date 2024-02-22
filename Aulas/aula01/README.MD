@@ -51,5 +51,5 @@ git branch nomeDaBranch
 9. faz o merge
 
 ```shell
-git merge
+git merge nomeDabranch
 ```
